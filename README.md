@@ -6,6 +6,7 @@
    
       🔭 I’m currently working on coding a medical drone and Snake
       🌱 I’m currently learning computer science fundamentals
+      📚 Computer Science Student at The University of Alabama at Birmingham
   
   </div>
 
