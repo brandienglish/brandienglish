@@ -24,12 +24,12 @@
   <a href="mailto:brandienglish87@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  
+   <a  href=https://github.com/brandienglish/SIEM-LAB>Detection Lab</a>
 </div>
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a https://github.com/brandienglish/SIEM-LAB>SIEM LAB</a>||
+| SIEM Implementation and Log Analysis          | <a  href=https://github.com/brandienglish/SIEM-LAB>Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
