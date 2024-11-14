@@ -5,18 +5,24 @@
   <div align="center"> 
    
      
-      🌱 I’m currently learning computer science fundamentals
+      🌱 Currently learning cyber security / cloud fundamentals
       📚 Computer Science Student @ The University of Alabama at Birmingham
       🔭 LinkedIn - www.linkedin.com/in/brandienglish87
       
+   </div>
+
+  <h2 align="center">SIEM</h2>
+<div align="center">
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
   
   </div>
 
   <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git,eclispe" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,java," /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,eclispe" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,java," /><br>
 </div>
 
 
@@ -26,6 +32,8 @@
   </a>
   
 </div>
+
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
