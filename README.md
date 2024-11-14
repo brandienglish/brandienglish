@@ -29,7 +29,7 @@
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | SIEM LAB|
+| SIEM Implementation and Log Analysis          | <a https://github.com/brandienglish/SIEM-LAB>SIEM LAB</a>||
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
