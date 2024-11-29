@@ -36,13 +36,13 @@
 
 <div align="center">
 
-| Skill                                         | Associated Project         |
+| Projects                                      | Link      |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a  href=https://github.com/brandienglish/SIEM-LAB>SIEM Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+|  SOC Automation Lab       |  Coming Soon|
+| Metasploit Lab | Coming Soon|
+
+
 <!--
 **brandienglish/brandienglish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
