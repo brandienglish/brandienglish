@@ -39,7 +39,7 @@
 | Projects                                      | Link      |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a  href=https://github.com/brandienglish/SIEM-LAB>SIEM Lab</a>|
-|  SOC Automation Lab       |  Coming Soon|
+|  SOC Automation Lab       | <a  href=https://github.com/brandienglish/SIEM-LAB> SOC Lab</a> |
 | Metasploit Lab | Coming Soon|
 
 
