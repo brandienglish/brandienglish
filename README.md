@@ -3,11 +3,10 @@
 </h1>
 
   <div align="center"> 
-   
      
-      🌱 Currently learning cyber security / cloud / programming / fundalmentals
+       🌱 Currently learning cyber security / cloud / programming / fundalmentals
       💻 Creating virutual enviroments on Virtual Box running on Mac OS 🤖     
-      📚 Computer Science Senior @ The University of Alabama at Birmingham
+   📚 Computer Science Senior @ The University of Alabama at Birmingham
       
       
    </div>
