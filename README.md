@@ -5,8 +5,9 @@
   <div align="center"> 
    
      
-      🌱 Currently learning cyber security / cloud fundamentals
-      📚 Computer Science Student @ The University of Alabama at Birmingham
+      🌱 Currently learning cyber security / cloud / programming / fundalmentals
+      💻 Creating virutual enviroments on Virtual Box running on Mac OS 🤖     
+      📚 Computer Science Senior @ The University of Alabama at Birmingham
       
       
    </div>
