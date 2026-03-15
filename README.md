@@ -4,9 +4,9 @@
 
   <div align="center"> 
      
-      🌱 Currently studying for CCNA
-      💻 Creating Homelabs
-      📚 BS Computer Science @ UAB 
+      🌱  Currently studying for CCNA
+      💻  Creating Homelabs
+      📚  BS Computer Science @ UAB 
       
       
    </div>
