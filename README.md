@@ -40,7 +40,7 @@
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a  href=https://github.com/brandienglish/SIEM-LAB>SIEM Lab</a>|
 |  SOC Automation Lab       | <a  href=https://github.com/brandienglish/SOC-Automation-Lab> SOC Lab</a> |
-| Metasploit Lab | Coming Soon|
+| Packet Tracer Practice | Coming Soon|
 
 
 <!--
